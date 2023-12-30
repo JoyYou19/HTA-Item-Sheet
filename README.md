@@ -4,3 +4,5 @@ This application serves as a way to create Json items visually and export them a
 
 All items are stored in a location called globalFilePath in items.h, 
 and can be modified when running the application and selecting the output directory.
+
+Using ImGui with DirectX9, and Win32 libraries
